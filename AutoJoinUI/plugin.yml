@@ -1,0 +1,6 @@
+name: AutoJoinUI
+main: AutoJoin\Main
+version: 1.0
+api: [3.0.0,4.0.0]
+author: FrostCH1
+description: เข้าแล้วหน้าต่างเปิด
